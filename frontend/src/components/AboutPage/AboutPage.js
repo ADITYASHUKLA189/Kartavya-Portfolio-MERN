@@ -115,13 +115,13 @@ function AboutPage({ isBatterySavingOn, isWindowModalVisible, addTab }) {
                 whileInView="show"
                 exit="hidden"
               >
-                <span className="about-name">Kartavya Singh</span>
+                <span className="about-name">Aditya Shukla</span>
                 <p className="about-role">
                   UC '26, B.S & M.Eng in Computer Science, Full Stack Software
                   Developer
                 </p>
                 <p className="about-description">
-                  I'm Kartavya Singh, a Computer Science senior at the
+                  I'm Aditya Shukla, a Computer Science senior at the
                   University of Cincinnati, passionate about creating impactful
                   AI solutions, experienced in Full Stack Development. My
                   journey is driven by curiosity and a commitment to continuous
